@@ -1,0 +1,28 @@
+sigla,regiao,exposicao,registros_por_municipio,pct_municipios_afetados,n_registros,mortos,desabrigados,tipo_mais_frequente
+AC,Norte,alta,6.73,100.0,148,1,15181,Estiagem e Seca
+SC,Sul,alta,5.85,97.3,1725,23,15606,Chuvas Intensas
+MS,Centro-Oeste,alta,5.19,72.2,410,1,251,Chuvas Intensas
+RS,Sul,alta,5.08,99.6,2526,245,120430,Chuvas Intensas
+DF,Centro-Oeste,alta,5.0,100.0,5,0,60,Incêndio Florestal
+PA,Norte,alta,4.72,88.2,679,7,33831,Chuvas Intensas
+MT,Centro-Oeste,alta,4.46,99.3,633,2,749,Incêndio Florestal
+ES,Sudeste,alta,4.09,74.4,319,23,687,Incêndio Florestal
+AM,Norte,alta,3.94,100.0,244,24,20518,Estiagem e Seca
+RO,Norte,media,3.73,100.0,194,1,204,Estiagem e Seca
+AP,Norte,media,3.69,100.0,59,0,772,Estiagem e Seca
+RJ,Sudeste,media,3.16,71.7,291,43,4912,Chuvas Intensas
+PE,Nordeste,media,3.05,89.2,564,1,1432,Estiagem e Seca
+RN,Nordeste,media,2.46,94.6,410,3,3028,Estiagem e Seca
+TO,Norte,media,2.22,100.0,308,0,151,Estiagem e Seca
+PB,Nordeste,media,2.0,75.8,447,0,65,Estiagem e Seca
+MG,Sudeste,media,1.9,63.2,1619,31,7172,Chuvas Intensas
+CE,Nordeste,media,1.79,51.6,330,8,946,Estiagem e Seca
+PI,Nordeste,baixa,1.73,72.3,388,10,1691,Estiagem e Seca
+BA,Nordeste,baixa,1.69,63.8,705,5,10033,Estiagem e Seca
+AL,Nordeste,baixa,1.45,68.6,148,1,4992,Estiagem e Seca
+RR,Norte,baixa,1.4,93.3,21,0,12,Estiagem e Seca
+MA,Nordeste,baixa,1.05,53.9,227,12,21880,Chuvas Intensas
+SE,Nordeste,baixa,0.91,38.7,68,3,189,Estiagem e Seca
+PR,Sul,baixa,0.86,48.4,345,11,3164,Enxurradas
+SP,Sudeste,baixa,0.65,37.2,421,76,4715,Incêndio Florestal
+GO,Centro-Oeste,baixa,0.62,34.6,152,9,59,Estiagem e Seca

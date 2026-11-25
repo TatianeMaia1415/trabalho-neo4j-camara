@@ -1,0 +1,19 @@
+idVotacao,data,tema,sim_significa,tipo_votacao,proposicao,sim,nao,descricao
+2233802-424,2026-05-27,6x1,A_FAVOR_FIM_6X1,1º turno,PEC 221/2019,472,22,"Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 221, de 2019. Sim: 472; Não: 22; Total: 494."
+2233802-438,2026-05-27,6x1,A_FAVOR_FIM_6X1,2º turno,PEC 221/2019,461,19,"Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 221, de 2019. . Sim: 461; Não: 19; Total: 480."
+2233802-416,2026-05-27,6x1,CONDUCAO_BASE,requerimento procedimental,PEC 221/2019,372,101,Aprovado o Requerimento. Sim: 372; Não: 101; Total: 473.
+2233802-401,2026-05-27,6x1,A_FAVOR_FIM_6X1,parecer na comissão especial,PEC 221/2019,34,4,"Aprovado o Parecer,  ressalvado(s) o(s) Destaque(s) com o seguinte resultado: 34 votos ""Sim"", 4 votos ""Não"". Quórum de votação: 38 votos, apresentou voto em separado o Deputado Gilson Marques."
+2345368-78,2023-05-24,ambiental,PRO_AMBIENTE,emenda do Senado (decisiva),MPV 1150/2022,66,364,Sim = manter a emenda do Senado que retirava as mudanças na Lei da Mata Atlântica; Não = restabelecer os jabutis da Câmara
+345311-270,2023-05-30,ambiental,CONTRA_AMBIENTE,mérito (texto-base),PL 490/2007,283,155,Restringe a demarcação de terras indígenas
+1548579-194,2024-11-19,ambiental,PRO_AMBIENTE,mérito final,PL 182/2024 (PL 2148/2015),336,38,Cria o sistema brasileiro de comércio de emissões
+2238434-80,2024-03-13,ambiental,PRO_AMBIENTE,mérito (texto-base),PL 528/2020,429,19,Mobilidade de baixo carbono e captura de CO2
+2324721-94,2024-05-08,ambiental,CONTRA_AMBIENTE,mérito,PL 1366/2022,309,131,Dispensa licenciamento ambiental de plantações de eucalipto e pinus
+2434244-8,2024-05-21,ambiental,PRO_AMBIENTE,urgência,PL 1594/2024,320,115,Sim = acelerar política de proteção a deslocados climáticos
+2456731-71,2025-04-29,ambiental,PRO_AMBIENTE,mérito (texto-base),PL 3469/2024,261,108,Amplia a capacidade do poder público de responder a incêndios florestais
+257161-454,2025-07-16,ambiental,CONTRA_AMBIENTE,mérito (emendas do Senado em globo),PL 2159/2021,267,116,Flexibiliza o licenciamento ambiental (placar 267 x 116 noticiado como a votação principal)
+2428615-16,2025-09-02,ambiental,PRO_AMBIENTE,recurso,PL 10273/2018,120,249,Sim = levar ao Plenário (frear) projeto que restringe a cobrança da TCFA; CONFERIR autor do recurso
+2558628-8,2025-09-09,ambiental,PRO_AMBIENTE,urgência,PL 4392/2025,310,115,Sim = acelerar projeto que reforça a proteção do Pantanal
+2438687-71,2025-10-15,ambiental,PRO_AMBIENTE,mérito (texto-base),PL 2225/2024,285,86,Política pública de acesso de crianças à natureza
+2422887-23,2026-05-19,ambiental,PRO_AMBIENTE,recurso,PL 364/2019 + REC 5/2024,126,274,Sim = levar ao Plenário (frear) projeto que reduz a proteção de campos nativos; CONFERIR autor do recurso
+2633410-8,2026-06-17,ambiental,CONTRA_AMBIENTE,urgência,PDL 717/2024,273,160,Sim = acelerar projeto que susta decretos de demarcação
+2606189-10,2026-07-01,ambiental,CONTRA_AMBIENTE,urgência,PL 849/2025,279,162,Sim = acelerar projeto que reduz área de proteção ambiental
